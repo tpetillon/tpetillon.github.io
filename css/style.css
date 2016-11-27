@@ -1,0 +1,29 @@
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+.contents {
+    flex: 1;
+    margin: 5em;
+}
+
+.left-column {
+    float: left;
+    width: 50%
+}
+
+.right-column {
+    float: right;
+    width: 50%
+}
+
+#title-no {
+    font-size: 120%;
+    opacity: 0.25;
+}
+
+footer {
+    background-color: #4e5d6c;
+}
