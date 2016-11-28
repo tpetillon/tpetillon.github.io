@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Home – Thom.space</title>
+    <title>Software renderer – Projects – Thom.space</title>
 
     <link href="/css/bootstrap.min.css" rel="stylesheet">
 
@@ -37,14 +37,14 @@
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="#">Thom<span><img src="/img/no.svg" alt="の" /></span>Space</a>
+            <a class="navbar-brand" href="/">Thom<span><img src="/img/no.svg" alt="の" /></span>Space</a>
           </div>
 
           <!-- Collect the nav links, forms, and other content for toggling -->
           <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav">
-              <li class="active"><a href="#">Home <span class="sr-only">(current)</span></a></li>
-              <li><a href="/projects/">Projects</a></li>
+              <li><a href="/">Home</a></li>
+              <li class="active"><a href="/projects/">Projects <span class="sr-only">(current)</span></a></li>
               <li><a href="/about/">About</a></li>
               <li><a href="/contact/">Contact</a></li>
             </ul>
@@ -54,8 +54,29 @@
     </header>
     
     <div class="contents">
-        <h2>Hi! :)</h2>
-        <p>Welcome to my personal website. Currently, this page is quite empty (in case you didn’t notice ;) ), so you probably want to check one of the links in the menu above.</p>
+        <h1>Software renderer</h1>
+        <p>
+            A simple software renderer I made from scratch. (Except to get a drawable surface and input events, for which SDL is used. Everything else, including maths code, is hand-written.)
+        </p>
+        <p>Features:</p>
+        <ul>
+            <li>Vertex arrays</li>
+            <li>Z-buffer</li>
+            <li>Correct triangle clipping</li>
+            <li>Shader system with perspective-correct interpolation</li>
+            <li>Texture sampling</li>
+            <li>Pixels drawn in quads</li>
+            <li>OBJ file loading</li>
+            <li>FPS-style camera</li>
+        </ul>
+        <br /><br />
+        <img class="centered-image" src="/img/softwarerenderer-capture-1.png" />
+        <br /><br />
+        <img class="centered-image" src="/img/softwarerenderer-capture-2.png" />
+        <br /><br />
+        <p><a href="https://bitbucket.org/tpetillon/softwarerenderer">Source code repository</a></p>
+        <p>Licence: MIT</p>
+        </ul>
     </div>
 
     <footer>
