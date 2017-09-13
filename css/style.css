@@ -37,6 +37,18 @@ body {
     height: auto; 
 }
 
+.project-list li {
+    padding-bottom: 2em;
+}
+
+.project-desc {
+    padding-left: 2em;
+}
+
 footer {
     background-color: #4e5d6c;
+}
+
+#copyright {
+    margin: 0.2em;
 }

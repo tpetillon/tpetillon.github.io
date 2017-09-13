@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Thom.space</title>
+    <link>http://thom.space/projects/index.xml</link>
+    <description>Recent content in Projects on Thom.space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <lastBuildDate>Mon, 30 Jan 2017 23:04:38 +0100</lastBuildDate>
+    <atom:link href="http://thom.space/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>RoofMapper</title>
+      <link>http://thom.space/projects/roofmapper/</link>
+      <pubDate>Mon, 30 Jan 2017 20:32:22 +0100</pubDate>
+      
+      <guid>http://thom.space/projects/roofmapper/</guid>
+      <description>&lt;p&gt;A tool that makes contributing to &lt;a href=&#34;https://www.openstreetmap.org/&#34;&gt;OpenStreetMap&lt;/a&gt; really accessible.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Running at &lt;a href=&#34;http://www.roofmapper.eu/&#34;&gt;www.roofmapper.eu&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;This is an experiment in offering a way for non-computer-savvy people to contribute to the project.
+Here the user just has to select the building roof material, with the help of the aerial imagery, by clicking the corresponding button.
+When finished, the user clicks “upload” to send changes, and that’s all.
+Everything else, from the selection of the buildings to the changeset message, is taken care of automatically.&lt;/p&gt;
+
+&lt;p&gt;The tool is designed to be used with tablets, though it is fully usable on a desktop computer. (It can be used using the keyboard only.)&lt;/p&gt;
+
+&lt;p&gt;RoofMapper can also be used by seasoned mappers for quick contributions.&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;img class=&#34;centered-image img-responsive&#34; src=&#34;http://thom.space/img/roofmapper-capture-2.jpg&#34; /&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Source code:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/tpetillon/roofmapper-client&#34;&gt;Client repository&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/tpetillon/roofmapper-server&#34;&gt;Server repository&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/tpetillon/roofmapper-buildingextractor&#34;&gt;Data extraction tool repository&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Licence: MIT&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Software Renderer</title>
+      <link>http://thom.space/projects/softwarerenderer/</link>
+      <pubDate>Mon, 30 Jan 2017 20:32:38 +0100</pubDate>
+      
+      <guid>http://thom.space/projects/softwarerenderer/</guid>
+      <description>&lt;p&gt;A simple software renderer I made from scratch. (Except to get a drawable surface and input events, for which SDL is used. Everything else, including maths code, is hand-written.)&lt;/p&gt;
+
+&lt;p&gt;Features:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Vertex arrays&lt;/li&gt;
+&lt;li&gt;Z-buffer&lt;/li&gt;
+&lt;li&gt;Correct triangle clipping&lt;/li&gt;
+&lt;li&gt;Shader system with perspective-correct interpolation&lt;/li&gt;
+&lt;li&gt;Texture sampling&lt;/li&gt;
+&lt;li&gt;Pixels drawn in quads&lt;/li&gt;
+&lt;li&gt;OBJ file loading&lt;/li&gt;
+&lt;li&gt;FPS-style camera&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;img class=&#34;centered-image img-responsive&#34; src=&#34;http://thom.space/img/softwarerenderer-capture-1.jpg&#34; /&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;img class=&#34;centered-image img-responsive&#34; src=&#34;http://thom.space/img/softwarerenderer-capture-2.jpg&#34; /&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://bitbucket.org/tpetillon/softwarerenderer&#34;&gt;Source code repository&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Licence: MIT&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Breton conjugator</title>
+      <link>http://thom.space/projects/bretonconjugator/</link>
+      <pubDate>Wed, 13 Sep 2017 21:04:15 +0100</pubDate>
+      
+      <guid>http://thom.space/projects/bretonconjugator/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;meta charset=&#34;UTF-8&#34;&gt;
+    &lt;title&gt;Breton conjugator&lt;/title&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+  &lt;script type=&#34;text/javascript&#34; src=&#34;http://thom.space/js/breton-conjugator.js&#34;&gt;&lt;/script&gt;&lt;/body&gt;
+&lt;/html&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pasorikai</title>
+      <link>http://thom.space/projects/pasorikai/</link>
+      <pubDate>Tue, 31 Jan 2017 20:39:51 +0100</pubDate>
+      
+      <guid>http://thom.space/projects/pasorikai/</guid>
+      <description>&lt;p&gt;A Japanese-to-English interactive dictionary for Windows.
+Based on a port of the &lt;a href=&#34;http://www.polarcloud.com/rikaichan&#34;&gt;Rikaichan&lt;/a&gt; Firefox extension.
+Uses &lt;a href=&#34;http://wwwjdic.com/&#34;&gt;Jim Breen’s WWWJDIC&lt;/a&gt; Japanese dictionary.&lt;/p&gt;
+
+&lt;p&gt;Features:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Automatically grabs text for the clipboard&lt;/li&gt;
+&lt;li&gt;Can be controlled without application focus, using keyboard hotkeys&lt;/li&gt;
+&lt;li&gt;Conjugated form to root form conversion&lt;/li&gt;
+&lt;li&gt;Kanji to kana conversion&lt;/li&gt;
+&lt;li&gt;Kanji details display&lt;/li&gt;
+&lt;li&gt;Results sorted by usage frequency&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;img class=&#34;centered-image img-responsive&#34; src=&#34;http://thom.space/img/pasorikai-capture-1.png&#34; /&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://bitbucket.org/tpetillon/pasorikai&#34;&gt;Source code repository&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Licence: GPLv2&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
