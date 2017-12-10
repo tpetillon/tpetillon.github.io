@@ -185,10 +185,10 @@ Uses &lt;a href=&#34;http://wwwjdic.com/&#34;&gt;Jim Breen’s WWWJDIC&lt;/a&gt;
 &lt;ul&gt;
 &lt;li&gt;Including &lt;a href=&#34;http://store.steampowered.com/app/329790/&#34;&gt;Krosmaster Arena&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Realtime 3D city viewers at &lt;a href=&#34;https://www.siradel.com/&#34;&gt;Siradel&lt;/a&gt;
+&lt;li&gt;Realtime 3D city viewers at &lt;a href=&#34;https://www.siradel.com/&#34;&gt;Siradel&lt;/a&gt; (part of &lt;a href=&#34;https://www.engie.com/en/&#34;&gt;Engie Group&lt;/a&gt;)
 
 &lt;ul&gt;
-&lt;li&gt;Unity and WebGL based&lt;/li&gt;
+&lt;li&gt;Unity as well as WebGL based&lt;/li&gt;
 &lt;li&gt;For multibillion-revenue companies&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://thom.space/projects/&#34;&gt;Personal projects&lt;/a&gt;&lt;/li&gt;
@@ -230,9 +230,10 @@ Uses &lt;a href=&#34;http://wwwjdic.com/&#34;&gt;Jim Breen’s WWWJDIC&lt;/a&gt;
 &lt;ul&gt;
 &lt;li&gt;Based on the &lt;a href=&#34;https://cesiumjs.org/&#34;&gt;Cesium&lt;/a&gt; 3D globe renderer&lt;/li&gt;
 &lt;li&gt;Tiled 3D-building rendering system&lt;/li&gt;
+&lt;li&gt;Level of detail support&lt;/li&gt;
 &lt;li&gt;Dynamic texturing and palette-based colouring&lt;/li&gt;
 &lt;li&gt;Efficient data format&lt;/li&gt;
-&lt;li&gt;Converter and texture tools&lt;/li&gt;
+&lt;li&gt;Format conversion and texturing tools&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Java server development
 
@@ -240,6 +241,12 @@ Uses &lt;a href=&#34;http://wwwjdic.com/&#34;&gt;Jim Breen’s WWWJDIC&lt;/a&gt;
 &lt;li&gt;Highly concurrent architecture (multiple thousands of simultaneously connected players)&lt;/li&gt;
 &lt;li&gt;Binary client-server protocol&lt;/li&gt;
 &lt;li&gt;SQL data storage and retrieval (with and without ORMs)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Build systems — continuous integration
+
+&lt;ul&gt;
+&lt;li&gt;Using Maven as project defintion tool&lt;/li&gt;
+&lt;li&gt;GitLab for continuous build/testing/integration/deployment&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;Web stuff
 
